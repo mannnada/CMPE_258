@@ -27,3 +27,26 @@ This versatile model supports simultaneous processing of **images and text**, ma
 ## 🖼️ Content Generation from Images  
 - **Colab:** (#)  
 - **YouTube Tutorial:**   
+
+
+# 🚀 Cursor AI: The AI-Powered Code Editor  
+
+## 🧐 What is Cursor AI?  
+Cursor AI is an advanced code editor designed to supercharge developer productivity with the power of AI. As a fork of **Visual Studio Code**, it seamlessly integrates GPT-based AI tools directly into your coding workflow, offering intelligent assistance for coding, debugging, and refactoring tasks.  
+
+---
+
+## ✨ Key Features  
+
+- 🔥 **AI-Powered Code Generation:** Generate, complete, or modify entire functions and classes with natural language prompts.  
+- 🧠 **Context-Aware Autocompletion:** Receive real-time code suggestions tailored to your project context.  
+- 📂 **Deep Codebase Understanding:** Search and reference your entire codebase using intuitive natural language queries.  
+- ✍️ **Smart Rewrites & Refactoring:** Perform simultaneous edits across multiple lines with AI-assisted refactoring.  
+- 🛠️ **VS Code Extension Compatibility:** Enjoy full support for extensions, themes, and keybindings from Visual Studio Code.  
+- 🚀 **Enhanced Developer Workflow:** Reduce boilerplate code, streamline development, and debug efficiently.  
+
+---
+
+## 🎓 Resources  
+- **YouTube Tutorial:** [Watch the demo]  
+- **Colab Notebook:** [Explore Cursor AI in Colab]  
