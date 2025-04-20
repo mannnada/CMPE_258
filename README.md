@@ -19,7 +19,10 @@ This versatile model supports simultaneous processing of **images and text**, ma
 ---
 
 ## 🎨 Image Generation Exploration  
-- **Colab:** (#) https://colab.research.google.com/drive/1aRt2rMmC6T-e0BJF-K_Mj-Gq_v_E9aKR?usp=sharing
+- **Colab:** (#) 
+https://colab.research.google.com/drive/1yZPVzyqlTcD1kIMioTw_I22RErFMA_6B?usp=sharing
+https://colab.research.google.com/drive/1VXUzwyquQZGglIMR-aILnMp65LIeC8tX?usp=sharing
+https://colab.research.google.com/drive/1lr2SI43D8McwYIF5aYAwpo0mW4I9-DMZ?usp=sharing
 - **YouTube Tutorial:**   
 
 ---
