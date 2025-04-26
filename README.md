@@ -24,7 +24,6 @@ https://colab.research.google.com/drive/1yZPVzyqlTcD1kIMioTw_I22RErFMA_6B?usp=sh
 https://colab.research.google.com/drive/1VXUzwyquQZGglIMR-aILnMp65LIeC8tX?usp=sharing
 https://colab.research.google.com/drive/1lr2SI43D8McwYIF5aYAwpo0mW4I9-DMZ?usp=sharing
 - **YouTube Tutorial:**   
-https://colab.research.google.com/drive/1cyPVzVw6xDQvj7fIWCWP3MmyMesPdsP0?usp=sharing
 ---
 
 ## 🖼️ Content Generation from Images  
