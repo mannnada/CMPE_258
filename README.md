@@ -48,7 +48,6 @@ Cursor AI is an advanced code editor designed to supercharge developer productiv
 - 🚀 **Enhanced Developer Workflow:** Reduce boilerplate code, streamline development, and debug efficiently.  
 
 ---
-
-## 🎓 Resources  
-- **YouTube Tutorial:** [Watch the demo]  
-- **Colab Notebook:** [Explore Cursor AI in Colab]  
+Demo:
+Aider:
+Roocode:
