@@ -23,12 +23,12 @@ This versatile model supports simultaneous processing of **images and text**, ma
 https://colab.research.google.com/drive/1yZPVzyqlTcD1kIMioTw_I22RErFMA_6B?usp=sharing
 https://colab.research.google.com/drive/1VXUzwyquQZGglIMR-aILnMp65LIeC8tX?usp=sharing
 https://colab.research.google.com/drive/1lr2SI43D8McwYIF5aYAwpo0mW4I9-DMZ?usp=sharing
-- **YouTube Tutorial:**   
+- **YouTube Tutorial:**  https://youtu.be/NuECDX1lIjM 
 ---
 
 ## 🖼️ Content Generation from Images  
 - **Colab:** (#)  https://colab.research.google.com/drive/1cyPVzVw6xDQvj7fIWCWP3MmyMesPdsP0?usp=sharing
-- **YouTube Tutorial:**   
+- **YouTube Tutorial:**   https://youtu.be/NuECDX1lIjM
 
 
 # 🚀 Cursor AI: The AI-Powered Code Editor  
@@ -49,5 +49,5 @@ Cursor AI is an advanced code editor designed to supercharge developer productiv
 
 ---
 Demo:
-Aider:
-Roocode:
+Aider: https://youtu.be/NuECDX1lIjM
+Roocode:https://youtu.be/NuECDX1lIjM
